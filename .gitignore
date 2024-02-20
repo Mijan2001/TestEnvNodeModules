@@ -1,4 +1,4 @@
 .env
 /node_modules/
 *.json
-README.md/
+/README.md/
